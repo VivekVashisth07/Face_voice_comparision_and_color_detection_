@@ -3,7 +3,11 @@ This is basically a code which detect the face object and voice and comapre and 
 
 
 PLease note that 
-You have to download a gender detection trained model from drive the link is below
+You have to download a gender detection trained model from drive the link is below:-
+
+https://drive.google.com/file/d/1lG22ZXZStBRoLmm6o9nEobcix2AbJZtF/view?usp=sharing
+
+
 and add it to combined and face attribute folder.
 
 
